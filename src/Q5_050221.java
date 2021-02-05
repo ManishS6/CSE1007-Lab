@@ -1,3 +1,13 @@
+// Question 5
+// 5. A given number (x) falls in one of the following categories (give x a value from
+// the code, don't read from user):
+// ○ 0 to 9
+// ○ 10 to 19
+// ○ 20 to 29
+// ○ None of the categories
+// For example, if x = 5, program should print "0 to 10", and if x = 44 it should print
+// "None".
+
 package src;
 
 import java.util.Random;
