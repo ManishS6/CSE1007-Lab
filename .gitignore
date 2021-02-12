@@ -24,3 +24,7 @@ hs_err_pid*
 
 # pdf files
 *.pdf
+
+# doc files
+*.doc
+*.docx
