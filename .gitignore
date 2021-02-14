@@ -28,3 +28,6 @@ hs_err_pid*
 # doc files
 *.doc
 *.docx
+
+# test.java
+test.java
